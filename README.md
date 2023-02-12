@@ -64,7 +64,7 @@ Testing a sample data against the use cases using our graph model.
 
 <br/>
 
-**What can node properties be used for? **
+**What can node properties be used for?**
 
 1. Uniquely identify a node (with an ID for example)
 2. Answering specific details of the use cases
