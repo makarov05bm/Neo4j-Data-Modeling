@@ -47,3 +47,13 @@ Testing a sample data against the use cases using our graph model.
 
 ![Screenshot_2023-02-12_22-55-09](https://user-images.githubusercontent.com/77200870/218342320-809c2b8d-81bf-4dc2-ba99-17b4be7751f1.png)
 
+<br/>
+
+## Modeling Nodes
+
+### Module Overview
+
+- Identifying the entities from your use cases.
+- Creating nodes in the graph in support of the data model.
+
+
