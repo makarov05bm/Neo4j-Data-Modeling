@@ -1,1 +1,1 @@
-# Neo4j-Data-MOdeling
+# Neo4j-Data-Modeling
